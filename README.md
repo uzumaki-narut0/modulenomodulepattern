@@ -9,6 +9,7 @@
  
  ## Results on my code
  * `.mjs` is the file generated for browsers which support `module` while `.js` is for others.
+ 
  ![esmodule bundle vs non-esmodule bundle difference](https://github.com/uzumaki-narut0/modulenomodulepattern/blob/master/module-nomodule-js-snapshot.PNG)
 
 ## Problems
